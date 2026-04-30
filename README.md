@@ -1,5 +1,5 @@
 
-# Olá, eu sou a Fernanda! 👋
+# Olá, eu sou a Fernanda! 😊
 
 Estudante de **Tecnologia em Banco de Dados na PUC Minas** e entusiasta da área de dados e segurança da informação. Atualmente, foco meus estudos na construção de infraestruturas de dados robustas e na exploração de vulnerabilidades.
 
@@ -22,8 +22,10 @@ Estudante de **Tecnologia em Banco de Dados na PUC Minas** e entusiasta da área
 
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@Fer-nanda1208?theme=gelbooru" alt="Moe Counter" />
+  <img src="https://count.getloli.com/get/@Fer-nanda1208?markdown" alt="Moe Counter" />
 </p>
+
+
 
 ---
 *"Libertas quae sera tamen🔺"*
