@@ -22,7 +22,7 @@ Estudante de **Tecnologia em Banco de Dados na PUC Minas** e entusiasta da área
 
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@Fer-nanda1208?markdown" alt="Moe Counter" />
+  <img src="https://count.getloli.com/get/@Fer-nanda1208?moebooru" alt="Moe Counter" />
 </p>
 
 
